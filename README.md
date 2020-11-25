@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on SAP Hybris and Micro Services
+- 🌱 I’m currently learning Software Marketing Diploma
+- 👯 I’m looking to collaborate on any open so
+- 💬 Ask me about Biking and Startup Ideas
+- 📫 How to reach me: Linkedin 
+
+
 <!--
 **sandeepvalapi/sandeepvalapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
