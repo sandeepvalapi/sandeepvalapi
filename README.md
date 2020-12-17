@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on SAP Hybris and Micro Services
-- 🌱 I’m currently learning Software Marketing Diploma
-- 👯 I’m looking to collaborate on any open so
-- 💬 Ask me about Biking and Startup Ideas
-- 📫 How to reach me: Linkedin 
+- 🔭 I’m currently working on SAP Hybris
+- 🌱 I’m currently learning Marketing Techniques in Software Marketing
+- 👯 I’m looking to collaborate on any open source projects or startup ideas
+- 💬 Ask me about Biking life and Startup's
+- 📫 How to reach me: Github | Linkedin 
 
 
 <!--
