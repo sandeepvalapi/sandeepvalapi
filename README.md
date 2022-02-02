@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on SAP Hybris
-- 🌱 I’m currently learning Marketing Techniques in Software Marketing
+- 🌱 I’m currently Salesforce
 - 👯 I’m looking to collaborate on any open source projects or startup ideas
-- 💬 Ask me about Biking life and Startup's
+- 💬 Ask me about IT Hobbies
 - 📫 How to reach me: Github | Linkedin 
 
 
